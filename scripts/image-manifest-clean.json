@@ -1,0 +1,889 @@
+﻿{
+    "sofas":  [
+                  {
+                      "width":  1600,
+                      "file":  "20250528_111550.webp",
+                      "height":  719
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "20250609_094326.webp",
+                      "height":  719
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "20250609_094515.webp",
+                      "height":  719
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "20250620_095353.webp",
+                      "height":  1054
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "20250708_112651.webp",
+                      "height":  719
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "20250906_105714.webp",
+                      "height":  1262
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "20250906_110018.webp",
+                      "height":  756
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "20251017_111720.webp",
+                      "height":  752
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "20251023_120226.webp",
+                      "height":  1174
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "20251023_125830.webp",
+                      "height":  893
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "20251023_130307.webp",
+                      "height":  1033
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "20251125_082246.webp",
+                      "height":  2355
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "20251125_084325.webp",
+                      "height":  2133
+                  },
+                  {
+                      "width":  1458,
+                      "file":  "20251126_051536.webp",
+                      "height":  2560
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "20260216_110637.webp",
+                      "height":  900
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "20260216_111429.webp",
+                      "height":  900
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "20260216_111625.webp",
+                      "height":  900
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "20260227_072713.webp",
+                      "height":  752
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "20260227_072847.webp",
+                      "height":  719
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "20260303_140700.webp",
+                      "height":  719
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "20260303_140813.webp",
+                      "height":  800
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "20260320_114146.webp",
+                      "height":  908
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "20260409_120029.webp",
+                      "height":  900
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "20260415_125640.webp",
+                      "height":  805
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "20260415_125746.webp",
+                      "height":  719
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "20260502_131603.webp",
+                      "height":  780
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "20260724_074317.webp",
+                      "height":  900
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "20260804_075414.webp",
+                      "height":  1081
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "20260804_075529.webp",
+                      "height":  1102
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "20260806_085307.webp",
+                      "height":  923
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "20260806_085459.webp",
+                      "height":  928
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "20260806_085544.webp",
+                      "height":  879
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "20260806_085632.webp",
+                      "height":  1200
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "20260806_085819.webp",
+                      "height":  840
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "20261012_092054.webp",
+                      "height":  1188
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "20261012_092318.webp",
+                      "height":  1188
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "20261012_092442.webp",
+                      "height":  1188
+                  },
+                  {
+                      "width":  524,
+                      "file":  "IMG-20251124-WA0053.webp",
+                      "height":  1014
+                  },
+                  {
+                      "width":  584,
+                      "file":  "IMG-20251124-WA0078.webp",
+                      "height":  1020
+                  },
+                  {
+                      "width":  1080,
+                      "file":  "IMG-20260216-WA0000.webp",
+                      "height":  607
+                  },
+                  {
+                      "width":  1080,
+                      "file":  "IMG-20260216-WA0005.webp",
+                      "height":  607
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "IMG_0798.webp",
+                      "height":  1200
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "IMG_20260404_101158.webp",
+                      "height":  769
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "IMG_20260404_101947.webp",
+                      "height":  719
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "IMG_20260409_113038.webp",
+                      "height":  747
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "IMG_20260428_123731.webp",
+                      "height":  706
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "IMG_20260428_123834.webp",
+                      "height":  719
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "IMG_20260428_124206.webp",
+                      "height":  677
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "IMG_20260428_124956.webp",
+                      "height":  760
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "IMG_20260614_202841.webp",
+                      "height":  837
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "IMG_20260614_202953.webp",
+                      "height":  719
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "IMG_20260614_203533.webp",
+                      "height":  719
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "IMG_20260721_211722.webp",
+                      "height":  719
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "IMG_20260803_170822_711~2.webp",
+                      "height":  1159
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "IMG_20260804_074656_556~2.webp",
+                      "height":  923
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "IMG_20260817_070850_880~2.webp",
+                      "height":  1074
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "IMG_20260817_070926_259~2.webp",
+                      "height":  968
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "IMG_20260817_071330_180~2.webp",
+                      "height":  969
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "IMG_20260817_071335_876~2.webp",
+                      "height":  836
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "IMG_20261009_073524_701.webp",
+                      "height":  1200
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "IMG_20261009_074040_409~2.webp",
+                      "height":  1042
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "IMG_20261009_074234_976~2.webp",
+                      "height":  1200
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "IMG_20261009_074301_803~2.webp",
+                      "height":  1200
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "IMG_20261009_074313_950~2.webp",
+                      "height":  1200
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "IMG_20261009_074325_463~2.webp",
+                      "height":  1200
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "IMG_20261009_074357_146~2.webp",
+                      "height":  1200
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "IMG_20261009_074408_042~2.webp",
+                      "height":  1200
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "IMG_20261009_074504_545~2.webp",
+                      "height":  1200
+                  },
+                  {
+                      "width":  1600,
+                      "file":  "IMG_20261009_074627_611~2.webp",
+                      "height":  1200
+                  }
+              ],
+    "center-tables":  [
+                          {
+                              "width":  1600,
+                              "file":  "20250528_113003.webp",
+                              "height":  1541
+                          },
+                          {
+                              "width":  1600,
+                              "file":  "20250528_113403.webp",
+                              "height":  836
+                          },
+                          {
+                              "width":  1600,
+                              "file":  "20250528_113656.webp",
+                              "height":  1003
+                          },
+                          {
+                              "width":  1600,
+                              "file":  "20250528_114034.webp",
+                              "height":  1159
+                          },
+                          {
+                              "width":  1600,
+                              "file":  "20250528_114319.webp",
+                              "height":  841
+                          },
+                          {
+                              "width":  1600,
+                              "file":  "20250810_154912.webp",
+                              "height":  1075
+                          },
+                          {
+                              "width":  1600,
+                              "file":  "20250810_155108.webp",
+                              "height":  1175
+                          },
+                          {
+                              "width":  1600,
+                              "file":  "20260409_115206.webp",
+                              "height":  900
+                          },
+                          {
+                              "width":  1600,
+                              "file":  "20260409_115322.webp",
+                              "height":  900
+                          },
+                          {
+                              "width":  1600,
+                              "file":  "20260409_115519.webp",
+                              "height":  899
+                          },
+                          {
+                              "width":  1600,
+                              "file":  "20260409_115608.webp",
+                              "height":  899
+                          },
+                          {
+                              "width":  1600,
+                              "file":  "20260409_115702.webp",
+                              "height":  899
+                          },
+                          {
+                              "width":  1600,
+                              "file":  "20260409_115738.webp",
+                              "height":  899
+                          },
+                          {
+                              "width":  1600,
+                              "file":  "20260502_131111.webp",
+                              "height":  882
+                          },
+                          {
+                              "width":  1600,
+                              "file":  "20261012_092205.webp",
+                              "height":  1188
+                          },
+                          {
+                              "width":  1600,
+                              "file":  "IMG_20260404_102049.webp",
+                              "height":  869
+                          },
+                          {
+                              "width":  1600,
+                              "file":  "IMG_20260407_095343.webp",
+                              "height":  974
+                          },
+                          {
+                              "width":  1600,
+                              "file":  "IMG_20260407_095413.webp",
+                              "height":  967
+                          },
+                          {
+                              "width":  1600,
+                              "file":  "IMG_20260407_095530.webp",
+                              "height":  954
+                          },
+                          {
+                              "width":  1600,
+                              "file":  "IMG_20260407_095549~2.webp",
+                              "height":  971
+                          },
+                          {
+                              "width":  1600,
+                              "file":  "IMG_20260614_203010.webp",
+                              "height":  920
+                          },
+                          {
+                              "width":  1600,
+                              "file":  "IMG_20260614_203034.webp",
+                              "height":  1139
+                          },
+                          {
+                              "width":  1600,
+                              "file":  "IMG_20261009_073545_336.webp",
+                              "height":  1200
+                          },
+                          {
+                              "width":  1600,
+                              "file":  "IMG_20261009_073708_329.webp",
+                              "height":  1200
+                          },
+                          {
+                              "width":  1600,
+                              "file":  "IMG_20261009_073750_671.webp",
+                              "height":  1200
+                          },
+                          {
+                              "width":  1600,
+                              "file":  "IMG_20261009_073807_732~2.webp",
+                              "height":  1200
+                          },
+                          {
+                              "width":  1600,
+                              "file":  "IMG_20261009_073838_577.webp",
+                              "height":  1200
+                          },
+                          {
+                              "width":  1600,
+                              "file":  "IMG_20261009_073838_577~2.webp",
+                              "height":  1200
+                          },
+                          {
+                              "width":  1600,
+                              "file":  "IMG_20261009_073850_705.webp",
+                              "height":  1200
+                          },
+                          {
+                              "width":  1600,
+                              "file":  "IMG_20261009_073932_670~2.webp",
+                              "height":  1200
+                          },
+                          {
+                              "width":  1600,
+                              "file":  "IMG_2028.webp",
+                              "height":  900
+                          }
+                      ],
+    "bed-frames":  [
+                       {
+                           "width":  1600,
+                           "file":  "20250528_111827.webp",
+                           "height":  719
+                       },
+                       {
+                           "width":  1600,
+                           "file":  "20260806_084641.webp",
+                           "height":  1200
+                       },
+                       {
+                           "width":  1600,
+                           "file":  "20260806_084738.webp",
+                           "height":  1200
+                       },
+                       {
+                           "width":  1600,
+                           "file":  "20260806_085349.webp",
+                           "height":  1200
+                       },
+                       {
+                           "width":  1600,
+                           "file":  "IMG_20260614_203605.webp",
+                           "height":  910
+                       },
+                       {
+                           "width":  1600,
+                           "file":  "IMG_20261009_074135_348.webp",
+                           "height":  1200
+                       },
+                       {
+                           "width":  1600,
+                           "file":  "IMG_20261009_074148_028.webp",
+                           "height":  1200
+                       },
+                       {
+                           "width":  1600,
+                           "file":  "IMG_20261009_075101_057~2.webp",
+                           "height":  1200
+                       },
+                       {
+                           "width":  1080,
+                           "file":  "Snapchat-340032521.webp",
+                           "height":  1920
+                       }
+                   ],
+    "office-furniture":  [
+                             {
+                                 "width":  1600,
+                                 "file":  "20250810_155358.webp",
+                                 "height":  1597
+                             },
+                             {
+                                 "width":  1600,
+                                 "file":  "20251125_032458.webp",
+                                 "height":  2233
+                             },
+                             {
+                                 "width":  1600,
+                                 "file":  "20251125_082443.webp",
+                                 "height":  2207
+                             },
+                             {
+                                 "width":  1523,
+                                 "file":  "20251127_131554.webp",
+                                 "height":  2560
+                             },
+                             {
+                                 "width":  1600,
+                                 "file":  "20260806_084903.webp",
+                                 "height":  1200
+                             },
+                             {
+                                 "width":  1280,
+                                 "file":  "20260806_085024.webp",
+                                 "height":  960
+                             },
+                             {
+                                 "width":  1600,
+                                 "file":  "20260806_085120.webp",
+                                 "height":  1066
+                             },
+                             {
+                                 "width":  1600,
+                                 "file":  "20260806_085218.webp",
+                                 "height":  1200
+                             },
+                             {
+                                 "width":  1600,
+                                 "file":  "IMG_20260804_074734_821~2.webp",
+                                 "height":  1200
+                             }
+                         ],
+    "carousel":  [
+                     {
+                         "width":  1600,
+                         "file":  "IMG_0754.webp",
+                         "height":  1200
+                     },
+                     {
+                         "width":  1600,
+                         "file":  "IMG_0762.webp",
+                         "height":  1200
+                     },
+                     {
+                         "width":  1600,
+                         "file":  "IMG_0764.webp",
+                         "height":  1200
+                     },
+                     {
+                         "width":  1600,
+                         "file":  "IMG_0772.webp",
+                         "height":  1200
+                     },
+                     {
+                         "width":  1600,
+                         "file":  "IMG_0776.webp",
+                         "height":  1200
+                     },
+                     {
+                         "width":  1600,
+                         "file":  "IMG_0777.webp",
+                         "height":  1200
+                     },
+                     {
+                         "width":  1600,
+                         "file":  "IMG_0780.webp",
+                         "height":  1200
+                     },
+                     {
+                         "width":  1600,
+                         "file":  "IMG_0784.webp",
+                         "height":  1200
+                     },
+                     {
+                         "width":  1600,
+                         "file":  "IMG_0788.webp",
+                         "height":  1200
+                     },
+                     {
+                         "width":  1600,
+                         "file":  "IMG_0793.webp",
+                         "height":  1200
+                     },
+                     {
+                         "width":  1600,
+                         "file":  "IMG_0796.webp",
+                         "height":  1200
+                     },
+                     {
+                         "width":  1600,
+                         "file":  "IMG_0800.webp",
+                         "height":  1200
+                     },
+                     {
+                         "width":  1600,
+                         "file":  "IMG_0804.webp",
+                         "height":  1200
+                     },
+                     {
+                         "width":  1600,
+                         "file":  "IMG_0805.webp",
+                         "height":  1200
+                     },
+                     {
+                         "width":  1600,
+                         "file":  "IMG_0806.webp",
+                         "height":  1200
+                     },
+                     {
+                         "width":  1600,
+                         "file":  "IMG_0808.webp",
+                         "height":  1200
+                     },
+                     {
+                         "width":  1600,
+                         "file":  "IMG_0810.webp",
+                         "height":  1200
+                     }
+                 ],
+    "dining-table":  [
+                         {
+                             "width":  1280,
+                             "file":  "20250618_090642.webp",
+                             "height":  960
+                         },
+                         {
+                             "width":  1600,
+                             "file":  "20250624_100326.webp",
+                             "height":  788
+                         },
+                         {
+                             "width":  1600,
+                             "file":  "20250624_101011.webp",
+                             "height":  866
+                         },
+                         {
+                             "width":  1600,
+                             "file":  "20250624_101314.webp",
+                             "height":  860
+                         },
+                         {
+                             "width":  1600,
+                             "file":  "20250624_102605.webp",
+                             "height":  863
+                         },
+                         {
+                             "width":  1155,
+                             "file":  "20250804_120216.webp",
+                             "height":  1280
+                         },
+                         {
+                             "width":  1542,
+                             "file":  "20250804_120418.webp",
+                             "height":  2560
+                         },
+                         {
+                             "width":  1600,
+                             "file":  "20250804_120612.webp",
+                             "height":  2097
+                         },
+                         {
+                             "width":  1600,
+                             "file":  "20250820_144021.webp",
+                             "height":  2214
+                         },
+                         {
+                             "width":  1280,
+                             "file":  "20251023_115614.webp",
+                             "height":  834
+                         },
+                         {
+                             "width":  1600,
+                             "file":  "20251023_125531.webp",
+                             "height":  1204
+                         },
+                         {
+                             "width":  1600,
+                             "file":  "20260320_113446.webp",
+                             "height":  955
+                         },
+                         {
+                             "width":  1600,
+                             "file":  "20260320_113606.webp",
+                             "height":  1010
+                         },
+                         {
+                             "width":  1600,
+                             "file":  "20260502_131208.webp",
+                             "height":  1200
+                         },
+                         {
+                             "width":  1600,
+                             "file":  "20260502_131412.webp",
+                             "height":  1164
+                         },
+                         {
+                             "width":  1600,
+                             "file":  "20261012_091922.webp",
+                             "height":  1250
+                         },
+                         {
+                             "width":  1080,
+                             "file":  "IMG-20260925-WA0014.webp",
+                             "height":  706
+                         },
+                         {
+                             "width":  1080,
+                             "file":  "IMG-20260925-WA0015.webp",
+                             "height":  810
+                         },
+                         {
+                             "width":  1080,
+                             "file":  "IMG-20260925-WA0017.webp",
+                             "height":  810
+                         },
+                         {
+                             "width":  960,
+                             "file":  "IMG-20260925-WA0018.webp",
+                             "height":  1280
+                         },
+                         {
+                             "width":  960,
+                             "file":  "IMG-20260925-WA0018~2.webp",
+                             "height":  1280
+                         },
+                         {
+                             "width":  1080,
+                             "file":  "IMG-20260925-WA0019.webp",
+                             "height":  966
+                         },
+                         {
+                             "width":  1080,
+                             "file":  "IMG-20260925-WA0020.webp",
+                             "height":  897
+                         },
+                         {
+                             "width":  1080,
+                             "file":  "IMG-20260925-WA0022.webp",
+                             "height":  810
+                         },
+                         {
+                             "width":  810,
+                             "file":  "IMG-20260925-WA0023.webp",
+                             "height":  1080
+                         },
+                         {
+                             "width":  848,
+                             "file":  "IMG-20260925-WA0024.webp",
+                             "height":  1080
+                         },
+                         {
+                             "width":  848,
+                             "file":  "IMG-20260925-WA0024~2.webp",
+                             "height":  680
+                         },
+                         {
+                             "width":  810,
+                             "file":  "IMG-20260925-WA0026.webp",
+                             "height":  1080
+                         },
+                         {
+                             "width":  852,
+                             "file":  "IMG-20260925-WA0027.webp",
+                             "height":  1080
+                         },
+                         {
+                             "width":  1280,
+                             "file":  "IMG-20260925-WA0029.webp",
+                             "height":  1210
+                         },
+                         {
+                             "width":  1280,
+                             "file":  "IMG-20260925-WA0030.webp",
+                             "height":  1034
+                         },
+                         {
+                             "width":  1080,
+                             "file":  "IMG-20260925-WA0031.webp",
+                             "height":  809
+                         },
+                         {
+                             "width":  1080,
+                             "file":  "IMG-20260925-WA0032.webp",
+                             "height":  597
+                         },
+                         {
+                             "width":  848,
+                             "file":  "IMG-20260925-WA0037.webp",
+                             "height":  1080
+                         },
+                         {
+                             "width":  1006,
+                             "file":  "IMG-20260925-WA0040.webp",
+                             "height":  1080
+                         },
+                         {
+                             "width":  1600,
+                             "file":  "IMG_0767.webp",
+                             "height":  1200
+                         },
+                         {
+                             "width":  1600,
+                             "file":  "IMG_20260404_101500.webp",
+                             "height":  893
+                         },
+                         {
+                             "width":  1600,
+                             "file":  "IMG_20260428_124538.webp",
+                             "height":  973
+                         },
+                         {
+                             "width":  1600,
+                             "file":  "IMG_20260804_074636_222~2.webp",
+                             "height":  1901
+                         },
+                         {
+                             "width":  1600,
+                             "file":  "IMG_20260817_071107_044~2.webp",
+                             "height":  1078
+                         }
+                     ]
+}
